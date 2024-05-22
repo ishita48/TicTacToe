@@ -8,6 +8,12 @@ The Tic Tac Toe Game is your digital portal to enjoy the classic, strategic fun 
 
 [Play the Tic Tac Toe Game](https://tictactoe-gametime-isha-gupta.netlify.app/)
 
+or watch the demo by clicking on the icon below: 
+
+<a href="https://www.youtube.com/watch?v=lzVmDu5L-eI" target="_blank">
+    <img src="https://img.youtube.com/vi/lzVmDu5L-eI/0.jpg" alt="Watch the demo" width="200">
+</a>
+
 ## 🎮 How to Play
 
 1. **Select Players**: Choose your symbol (Cross or Circle) before starting the game.
